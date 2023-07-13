@@ -12,4 +12,4 @@ then run # source virtual/bin/activate to go into your virtual environment
 once there, download all your dependencies and use # flask run 
 to start your application
 
-https://devpost.com/software/bunyaan
+This project was done in collaboration with Ahmad Amali and Leena Elzeiny for HalalHacks 2021, with us getting 1st place.
