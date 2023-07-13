@@ -1,0 +1,51 @@
+
+.badges{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-shield{
+    font-size: 20px;
+    padding: 10px;
+    margin:10px;
+}
+
+.todo-box{
+    margin: 10px;
+    width: 90%;
+    padding: 5px;
+    background-color: #A4F4F2;
+}
+
+.todo-heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.todo-task{
+    display: flex;
+    align-items: center;
+}
+
+.left{
+    font-family: 'Stint Ultra Condensed', cursive;
+    line-height: 0px;
+}
+
+.badge-count{
+    padding-left: 0px;
+}
+
+.right{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 25px;
+    height: 32px;
+    padding: 2px
+}
+
+.right span{
+    color: #ff6b6c;
+}
